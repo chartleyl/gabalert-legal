@@ -9,4 +9,4 @@ Ce dépôt public héberge **uniquement la politique de confidentialité** de l'
 > page de confidentialité à une adresse publique, comme l'exigent les stores d'applications
 > (Huawei AppGallery, Google Play).
 
-**Éditeur :** Brenda Solutions — https://brenda-solutions.netlify.app/
+**Éditeur :** [Brenda Solutions](https://brenda-solutions.netlify.app/)
