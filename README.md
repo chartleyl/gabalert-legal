@@ -10,4 +10,3 @@ Ce dépôt public héberge **uniquement la politique de confidentialité** de l'
 > (Huawei AppGallery, Google Play).
 
 **Éditeur :** Brenda Solutions — https://brenda-solutions.netlify.app/
-**Contact :** charlenebrenda88@gmail.com
